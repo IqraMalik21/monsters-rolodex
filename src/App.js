@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=Q9n2mLqXFpU
+
 import "./App.css";
 import { CardList } from "./components/card-list/card-list.components.jsx";
 import { SearchBox } from "./components/search-box/search-box.components";
